@@ -1,0 +1,4 @@
+print(f"We're going to rease{filename}.")
+print("If you don't want that,hit CTRL-C(^).")
+print("If you want that,hit RETURN.")
+input("?")
